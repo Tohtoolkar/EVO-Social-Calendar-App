@@ -9,7 +9,7 @@ Our mission is to create a community of people who have goals, passions, and pla
 
 ## Key Features
 
-![Image](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/Todo-list.png)
+![alt text](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/Todo-list.png)
 
 ### Simple interface
 With simple interface, users can understand App working easily and see over screen of calendar quickly,
@@ -17,17 +17,17 @@ With simple interface, users can understand App working easily and see over scre
 ### Todo list
 To keep you on the plan, To-do list for each month is in the same page of calendar, which is below.
 
-![Image](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/dateScreen.png)
+![alt text](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/dateScreen.png)
 
 ### Deeper for the day 
 If users click on the the day or to-do list, app will navigate you to timeline containing more details for each day. Furthermore, each posts as social media can comment for discussion.
 
-![Image](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/create-todo.png)
+![alt text](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/create-todo.png)
 
 ### Create Event quickly
 Very easy! With simple interface design, users can create event in 3 second. Or you can add more details for your event such as details, uploading photo, notification time, tagging friends, and adding location.
 
-![Image](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/social2.png)
+![alt text](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/social2.png)
 
 ### Social interaction
 To make a productive community, users can search for calendar of friends easily, and you can also view the planner of other users, which can help with the scheduling of any appointment. Furthermore, Notification screen will show what other users have interaction with you 
