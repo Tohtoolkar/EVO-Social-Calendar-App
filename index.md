@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Welcome to EVO social calendar
 
-You can use the [editor on GitHub](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+EVO offers an innovative planner book to help you to become more productive. Unlike traditional planner books, we provide the joyful one in a social media platform.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Missions 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our mission is to create a community of people who have goals, passions, and plans. We believe that there are no shortcuts to success, and we can achieve our goal by getting any necessary tasks done step by step, with good time management, which is very much like an evolution of yourself. This is why our application was named EVO.
 
-```markdown
-Syntax highlighted code block
+## Key Features
 
-# Header 1
-## Header 2
-### Header 3
+![Image](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/Todo-list.png)
 
-- Bulleted
-- List
+### Simple interface
+With simple interface, users can understand App working easily and see over screen of calendar quickly,
 
-1. Numbered
-2. List
+### Todo list
+To keep you on the plan, To-do list for each month is in the same page of calendar, which is below.
 
-**Bold** and _Italic_ and `Code` text
+![Image](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/dateScreen.png)
 
-[Link](url) and ![Image](src)
-```
+### Deeper for the day 
+If users click on the the day or to-do list, app will navigate you to timeline containing more details for each day. Furthermore, each posts as social media can comment for discussion.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/create-todo.png)
 
-### Jekyll Themes
+### Create Event quickly
+Very easy! With simple interface design, users can create event in 3 second. Or you can add more details for your event such as details, uploading photo, notification time, tagging friends, and adding location.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/social2.png)
 
-### Support or Contact
+### Social interaction
+To make a productive community, users can search for calendar of friends easily, and you can also view the planner of other users, which can help with the scheduling of any appointment. Furthermore, Notification screen will show what other users have interaction with you 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Additional notes
+
+We dream to have a community of users who respect and encourage the goals and passions of other people, and a community where users share their plans, and leave positive comments and feedback to motivate one another. Additionally, by being able to save your planner on the cloud storage, it can function like diary that you can use to look back at your memorable moments or events that you are so proud of.  
+
+_We really hope that EVO can help make a difference for any of your self-development goal._
+
+**“Be a better version of yourself, be EVO."**
+
+## Contact us
+- Tel. +66914137932 
+- Email: Parse.nuttawat@gmail.com
+
+
+copyright 2021 Nuttawat Parse. All rights researved
+
