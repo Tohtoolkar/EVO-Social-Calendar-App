@@ -42,7 +42,7 @@ _We really hope that EVO can help make a difference for any of your self-develop
 
 ## Contact us
 - Tel. +66914137932 
-- Email: Parse.nuttawat@gmail.com
+- Email: evoinccontact@gmail.com
 
 
 copyright 2021 Nuttawat Parse. All rights researved
