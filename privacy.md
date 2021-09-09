@@ -26,8 +26,6 @@ Please read this privacy notice carefully as it will help you understand what we
 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE? 
 13. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
 
-file:///Users/tpholcharee/Desktop/privacy.html Page 1 of 11 
-
 
 ## 1. WHAT INFORMATION DO WE COLLECT? 
 
@@ -51,8 +49,6 @@ All personal information that you provide to us must be true, complete and accur
 
 We automatically collect certain information when you visit, use or navigate the App. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our App and other technical information. This information is primarily needed to maintain the security and operation of our App, and for our internal analytics and reporting purposes.
 
-file:///Users/tpholcharee/Desktop/privacy.html Page 2 of 11 
-
 Like many businesses, we also collect information through cookies and similar technologies. 
 
 The information we collect includes: 
@@ -75,7 +71,6 @@ This information is primarily needed to maintain the security and operation of o
 ### Information collected from other sources 
 
 **In Short:**   We may collect limited data from public databases, marketing partners, social media platforms, and
-file:///Users/tpholcharee/Desktop/privacy.html Page 3 of 11 
 
 other outside sources.
 
@@ -96,7 +91,6 @@ Request feedback.  We may use your information to request feedback and to contac
    
 - To enable user-to-user communications.** We may use your information in order to enable user-to-user
 
-file:///Users/tpholcharee/Desktop/privacy.html Page 4 of 11 
 
 communications with each user's consent. 
 - To manage user accounts.  We may use your information for the purposes of managing our account and keeping it in working order. 
@@ -111,7 +105,6 @@ Deliver targeted advertising to you.  We may use your information to develop and
 
 # 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
-file:///Users/tpholcharee/Desktop/privacy.html Page 5 of 11 
 
 **In Short:**  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations. 
 
@@ -133,7 +126,6 @@ More specifically, we may need to process your data or share your personal infor
     
 **Other Users.** When you share personal information (for example, by posting comments, contributions or other content to the App) or otherwise interact with public areas of the App, such personal information may
     
-file:///Users/tpholcharee/Desktop/privacy.html Page 6 of 11 
 
 be viewed by all users and may be publicly made available outside the App in perpetuity. If you interact with other users of our App and register for our App through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our App, and view your profile. 
 
@@ -148,7 +140,6 @@ We may use cookies and similar tracking technologies (like web beacons and pixel
 
 **In Short:**   If you choose to register or log in to our services using a social media account, we may have access to certain information about you. 
 Our App offers you the ability to register and login using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media
-file:///Users/tpholcharee/Desktop/privacy.html Page 7 of 11 
 
 provider concerned, but will often include your name, email address, friends list, profile picture as well as other information you choose to make public on such social media platform. 
 
@@ -168,7 +159,6 @@ When we have no ongoing legitimate business need to process your personal inform
 We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security, and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our App is at your own risk. You should only access the App within a secure environment. 
 
 ## 8. WHAT ARE YOUR PRIVACY RIGHTS?
-file:///Users/tpholcharee/Desktop/privacy.html Page 8 of 11 
 
 **In Short:**  You may review, change, or terminate your account at any time. 
    
@@ -189,8 +179,7 @@ Upon your request to terminate your account, we will deactivate or delete your a
 **Opting out of email marketing:** You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list â€” however, we may still communicate with you, for example to send you 
 service-related emails that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes. To otherwise opt-out, you may: 
 
-Access your account settings and update your preferences.
-file:///Users/tpholcharee/Desktop/privacy.html Page 9 of 11 
+Access your account settings and update your preferences. 
 
 ## 9. CONTROLS FOR DO-NOT-TRACK FEATURES 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.   
@@ -203,7 +192,6 @@ If you are under 18 years of age, reside in California, and have a registered ac
 ## 11. DO WE MAKE UPDATES TO THIS NOTICE?           
 **In Short:**  Yes, we will update this notice as necessary to stay compliant with relevant laws. 
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
-file:///Users/tpholcharee/Desktop/privacy.html Page 10 of 11 
 
 ## 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?           
 If you have questions or comments about this notice, you may email us at evoinccontact@gmail.com  or by post to: 
@@ -219,4 +207,3 @@ Thailand
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking  here. 
 This privacy policy was created using Termlyâ€™s Privacy Policy Generator.
 
-file:///Users/tpholcharee/Desktop/privacy.html Page 11 of 11 
