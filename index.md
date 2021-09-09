@@ -17,7 +17,7 @@ With simple interface, users can understand App working easily and see over scre
 ### Todo list
 To keep you on the plan, To-do list for each month is in the same page of calendar, which is below.
 
-![image](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/dateScreen.png)
+![image](https://github.com/Tohtoolkar/EVO-Social-Calendar-App/blob/gh-pages/a.jpg)
 
 ### Deeper for the day 
 If users click on the the day or to-do list, app will navigate you to timeline containing more details for each day. Furthermore, each posts as social media can comment for discussion.
